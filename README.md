@@ -227,7 +227,8 @@ Volume is where sentiment actually shows its biggest footprint.
 <td width="50%">
 
 **Buy vs Sell Composition by Sentiment**
-![Long/short composition](charts/04_long_short_composition.png)
+![Long/short composition] <img width="992" height="613" alt="image" src="https://github.com/user-attachments/assets/8deb897c-2d0f-4175-a65f-da1fb9670420" />
+
 Directional bias shifts only modestly — this isn't a simple "buy fear, sell greed" market.
 
 </td>
